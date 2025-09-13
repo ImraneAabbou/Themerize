@@ -1,0 +1,13 @@
+# Build and dependencies
+dist
+node_modules
+coverage
+
+# Angular specific
+*.generated.ts
+*.ngfactory.ts
+*.ngsummary.json
+
+# Misc
+package-lock.json
+yarn.lock
