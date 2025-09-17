@@ -1,0 +1,46 @@
+/* Sonara Regular */
+@font-face {
+  font-family: "Sonara";
+  src:
+    local("Sonara"),
+    url("/assets/fonts/sonara/Sonara.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Sonara Italic */
+@font-face {
+  font-family: "Sonara";
+  src:
+    local("Sonara Italic"),
+    local("Sonara-Italic"),
+    url("/assets/fonts/sonara/Sonara-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Sonara Rounded */
+@font-face {
+  font-family: "Sonara Rounded";
+  src:
+    local("Sonara Rounded"),
+    local("Sonara-Rounded"),
+    url("/assets/fonts/sonara/Sonara-Rounded.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Sonara Rounded Italic */
+@font-face {
+  font-family: "Sonara Rounded";
+  src:
+    local("Sonara Rounded Italic"),
+    local("Sonara-RoundedItalic"),
+    url("/assets/fonts/sonara/Sonara-RoundedItalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
